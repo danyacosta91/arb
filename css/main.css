@@ -13,7 +13,7 @@ body, html {
 }
 
 .custom-text {
-  color: #fff;
+  color: #73879c;
   text-align: justify;
 }
 
@@ -25,6 +25,16 @@ body, html {
   margin-right: 10px;
   height: 100px;
   margin-bottom: 10px;
+}
+
+.footer {
+  background: #fff;
+  padding: 15px 20px;
+  display: block;
+}
+
+.pull-right {
+  float: right !important;
 }
 
 /*---------------------------------------------*/
