@@ -18,11 +18,13 @@ body, html {
 }
 
 .card {
-  box-shadow: 0 4px 10px 0 #7bbbe8, 0 4px 20px 0 #7bbbe8;
+  /* box-shadow: 0 4px 10px 0 #7bbbe8, 0 4px 20px 0 #7bbbe8; */
   width: 48%;
   padding: 10px;
   border-radius: 20px;
   margin-right: 10px;
+  height: 100px;
+  margin-bottom: 10px;
 }
 
 /*---------------------------------------------*/
@@ -234,7 +236,7 @@ iframe {
   color: #fff;
   line-height: 1.2;
   text-align: center;
-  letter-spacing: 6px;
+  /* letter-spacing: 6px; */
   font-size: 22px;
 }
 
