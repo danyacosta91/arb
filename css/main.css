@@ -28,6 +28,10 @@ body, html {
   margin-bottom: 10px;
 }
 
+.cards {
+  display: inline-block;
+}
+
 .footer {
   background: #fff;
   padding: 15px 20px;
@@ -68,8 +72,13 @@ h1,h2,h3,h4,h5,h6 {
 p {
 	font-size: 14px;
 	line-height: 1.7;
-	color: #fff;
+	color: #73879c;
 	margin: 0px;
+}
+
+.counter {
+  float: right;
+  padding: 15px;
 }
 
 ul, li {
@@ -77,6 +86,9 @@ ul, li {
 	list-style-type: none;
 }
 
+.more.h2 {
+  float: right;
+}
 
 /*---------------------------------------------*/
 input {
